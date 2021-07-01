@@ -1,2 +1,5 @@
 *.tsv
 *.json
+DataBase
+share
+*.zip
